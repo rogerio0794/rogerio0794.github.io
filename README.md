@@ -1,4 +1,12 @@
-## Bem vindo
+## Rogério Pereira Junior
+
+PhD. Student in Electrical Engineering Program (PPGEEL), at [Universidade Federal de Santa Catarina](https://ppgeel.posgrad.ufsc.br/)<br/>
+M.Sc. in Electrical Engineering from [Universidade Federal de Santa Catarina](https://ufsc.br/)
+
+
+
+
+
 
 You can use the [editor on GitHub](https://github.com/rogerio0794/samples_page/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
